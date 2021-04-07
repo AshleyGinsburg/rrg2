@@ -18,4 +18,4 @@ https://github.com/AshleyGinsburg/rrg2
 *Stargap Arch*, photograph by Kevin and Anna Photography 
 
 ##JPEG of Basemap 
-![Basemap of Red River Gorge](
+![Basemap of Red River Gorge](path/to/image)
