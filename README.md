@@ -20,4 +20,3 @@ https://github.com/AshleyGinsburg/rrg2
 <<<<<<< HEAD
 =======
 ![Basemap of Red River Gorge](path/to/image)
->>>>>>> 0e45e8670f71dc2eba11cf9bada04f13abaada8d
