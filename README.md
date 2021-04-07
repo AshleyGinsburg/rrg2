@@ -16,8 +16,3 @@ https://github.com/AshleyGinsburg/rrg2
 
 ![Stargap Arch](https://i2.wp.com/kevinandannaweddings.com/wp-content/uploads/2017/05/Star-Gap-Arch-Red-River-Gorge-Engagement-Session-013.jpg?resize=1080%2C722)
 *Stargap Arch*, photograph by Kevin and Anna Photography 
-
-<<<<<<< HEAD
-=======
-![Basemap of Red River Gorge](path/to/image)
->>>>>>> 0e45e8670f71dc2eba11cf9bada04f13abaada8d
