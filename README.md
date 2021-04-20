@@ -19,4 +19,4 @@ https://AshleyGinsburg.github.io/rrg2
 ![Stargap Arch](https://i2.wp.com/kevinandannaweddings.com/wp-content/uploads/2017/05/Star-Gap-Arch-Red-River-Gorge-Engagement-Session-013.jpg?resize=1080%2C722)
 *Stargap Arch*, photograph by Kevin and Anna Photography 
 
-![image of basemap] (rrg.jpg)
+![image of basemap](rrg.jpg)
