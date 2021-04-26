@@ -20,3 +20,5 @@ https://AshleyGinsburg.github.io/rrg2
 *Stargap Arch*, photograph by Kevin and Anna Photography 
 
 ![image of basemap](rrg.jpg)
+
+![image of WhistlingArch](WhistlingArch.jpg)
