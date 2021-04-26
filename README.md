@@ -24,4 +24,4 @@ https://AshleyGinsburg.github.io/rrg2
 ![image](https://user-images.githubusercontent.com/78050242/116144004-cf262700-a6a9-11eb-9121-eead76d82c85.png)
 
 *Animation*
-[Link to vidoe](WhistlingArchAnimation.gif)
+[Link to video](WhistlingArchAnimation.gif)
