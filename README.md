@@ -21,4 +21,4 @@ https://AshleyGinsburg.github.io/rrg2
 
 ![image of basemap](rrg.jpg)
 
-![image of WhistlingArch](WhistlingArch.jpg)
+![image of WhistlingArch](![image](https://user-images.githubusercontent.com/78050242/116143889-b0c02b80-a6a9-11eb-9c10-07f439ad4958.png))
