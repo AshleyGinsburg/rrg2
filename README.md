@@ -26,4 +26,4 @@ https://AshleyGinsburg.github.io/rrg2
 *Animation*
 [Link to video](WhistlingArchAnimation.gif)
 
-[link to site mop](sitmap/index.html)
+[link to site mop](sitemap/index.html)
